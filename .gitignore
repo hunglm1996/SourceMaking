@@ -6,3 +6,10 @@ out/production/SourceMaking/com/study/design/pattern/creational/factory/Main.cla
 out/production/SourceMaking/com/study/design/pattern/creational/factory/IphoneSubClass.class
 out/production/SourceMaking/com/study/design/pattern/creational/factory/BphoneSubClass.class
 out/production/SourceMaking/com/study/Main.class
+.idea/vcs.xml
+.idea/project-template.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/google-java-format.xml
+.idea/encodings.xml
+.idea/description.html
